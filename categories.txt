@@ -1,0 +1,75 @@
+Protected Areas
+Ramsar
+Critical Species Habitat
+Ecosystem Region Boundary
+Species Habitat
+Species Observation
+Historical Elements of interest (OSM)
+Cultural Elements of Interest (OSM)
+UNESCO protected sites
+Community & Society Data
+Indigenous Areas
+Population Data
+
+
+Communication Towers & Obstacles
+Contaminated Sites
+Electric Transmission Powerline (OSM)
+Electric Transmission Substations (OSM)
+Cemeteries
+Railroads
+Roads
+Trails
+Wind Turbines
+Solar Parks 
+Harbour
+Airport
+Large Cities 
+
+
+Property Parcel
+Land Cover
+Agricultural (OSM)
+Commercial/Industrial
+Conservation/Environmental
+Cultural/Heritage
+Education/Research
+Hazard/Remediation/Waste
+Military
+Building Detection Data
+Forrest Coverage (OSM)
+Forrest Coverage (Sentinel Hub)
+
+
+Solar Irradiation resource
+Wind 150M 
+Wind resource 100M 
+Hail Events
+Lightning Strikes
+Tornado Events
+Wind Events
+Albedo
+Soiling
+
+
+Municipal Boundaries
+Administrative Boundaries
+
+
+Depth to Bedrock
+Elevation
+Landslide Risk
+Percent Slope
+Prime Farmland
+Soils
+
+
+100-Year Flood Plain
+500-Year Flood Plain
+NHD Flowline
+NHD Waterbody
+NWI Wetlands
+Watershed
+Local Flooding Zone
+River 
+Waterbodies
